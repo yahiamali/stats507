@@ -1,1 +1,1 @@
-# stats507
+This is my coursework for STATS 507.
